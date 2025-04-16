@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'MAHLE Dashboard',
-  description: 'Global Production Line Monitoring Dashboard',
+  description: 'Global M2S System Monitoring Dashboard',
 };
 
 export default function RootLayout({
